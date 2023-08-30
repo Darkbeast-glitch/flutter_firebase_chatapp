@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "893324673556",
+    "project_id": "flutterchatapp-ed2b4",
+    "storage_bucket": "flutterchatapp-ed2b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893324673556:android:01d10955467a26a186dd01",
+        "android_client_info": {
+          "package_name": "com.example.fireabase_chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893324673556-l4jpuj7ueo5go9r1mbitqevcnlpisavb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfzYkR1Z2gOYK9jjYO-ZSVp4_oqUPSijM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893324673556-l4jpuj7ueo5go9r1mbitqevcnlpisavb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
